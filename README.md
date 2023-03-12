@@ -12,7 +12,7 @@
 [이동 방법2](https://github.com/Tigerfriend1/Student-Council-App-Project/blob/main/Student-Council-Project-Report.pdf)
 -->
 
-## [총학생회 어플 개발 보고](https://github.com/Tigerfriend1/Student-Council-App-Project/blob/main/Student-Council-Project-Report.pdf)
+## [총학생회 어플 개발 보고](https://github.com/Tigerfriend1/Student-Council-App-Project/blob/main/Report/Student-Council-Project-Report.pdf)
 
 ### 1. 개발 배경
 - 총학생회 인식 부재 및 학생간 단절 문제 해결

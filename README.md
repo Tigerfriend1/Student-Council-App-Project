@@ -1,9 +1,16 @@
 # 부산대학교 총학생회 앱 제작 프로젝트
 
-## 사용언어 : Java
+> 개발 기간: 2021.05.30 ~ 2021.06.30 <br>
+> 개발 인원: 3명<br>
+> 사용 언어: Java<br>
+> 개발 환경: Android Studio<br>
 
-<!-- 방법 1 -->
-<a href="https://github.com/Tigerfriend1/Student-Council-App-Project/blob/main/Student-Council-Project-Report.pdf">이동</a>
+<!--
 
-<!-- 방법 2-->
-[이동](https://github.com/Tigerfriend1/Student-Council-App-Project/blob/main/Student-Council-Project-Report.pdf)
+
+<a href="https://github.com/Tigerfriend1/Student-Council-App-Project/blob/main/Student-Council-Project-Report.pdf">이동 방법1</a>
+
+
+[이동 방법2](https://github.com/Tigerfriend1/Student-Council-App-Project/blob/main/Student-Council-Project-Report.pdf)
+
+-->
